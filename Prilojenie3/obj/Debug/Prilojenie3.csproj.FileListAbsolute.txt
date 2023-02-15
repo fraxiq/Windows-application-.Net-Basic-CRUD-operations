@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\bin\Debug\Database4.mdb
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\bin\Debug\Prilojenie3.exe.config
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\bin\Debug\Prilojenie3.exe
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\bin\Debug\Prilojenie3.pdb
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\obj\Debug\Prilojenie3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\obj\Debug\Prilojenie3.Form1.resources
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\obj\Debug\Prilojenie3.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\obj\Debug\Prilojenie3.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\obj\Debug\Prilojenie3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\obj\Debug\Prilojenie3.exe
+C:\Users\ADMIN\Desktop\domashna BP\darina\Prilojenie3\Prilojenie3\obj\Debug\Prilojenie3.pdb
